@@ -1,0 +1,34 @@
+ESP:
+
+Instrucciones para moverse:
+
+*Acelerar la nave se utiliza la tecla: flecha arriba.
+*Rotar la nave hacía la derecha o izquierda: flecha izquierda o derecha.
+*Disparar laser: barra espaciadora.
+
+El objetivo es avanzar de oleada destruyendo completamente cada meteorito
+y sobrevivir en atacando la naves enemigas.
+
+Puedes comprar algunas mejoras con el dinero adquirido durante el juego.
+
+No olvides agarrar los bonus de dinero que aparecen aleatoreamente en la pantalla.
+
+-------------------------------------------------------------------------------------
+
+ENG:
+
+Instructions to move:
+
+ENG:
+*Accelerate the ship using the key: up arrow.
+*Rotate the ship to the right or left: left or right arrow.
+*Shoot laser: spacebar.
+
+The objective is to advance in the wave, completely destroying each meteorite.
+and survive in attacking the enemy ships.
+
+You can buy some upgrades with the money acquired during the game.
+
+Don't forget to grab the money bonuses that appear randomly on the screen.
+
+-------------------------------------------------------------------------------------
